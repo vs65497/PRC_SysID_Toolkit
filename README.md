@@ -2,6 +2,7 @@
 ### A Toolkit for System Identification of Black-box Physical Reservoir Computers
 
 **Paper:** *A Toolkit for System Identification of Black-box Physical Reservoir Computers*
+**Available online** DOI: 10.5281/zenodo.22165842
 **Author:** Von Simmons
 **Date:** August 2026
 **Contact:** [see paper]
