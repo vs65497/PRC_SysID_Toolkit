@@ -10,6 +10,12 @@
 
 ---
 
+## Abstract
+
+Reservoir computing occupies a narrow niche within machine learning used for time-series modeling. Useful in a myriad of applications including robotics and modeling neural microcircuits, reservoir computers (RC) bypass the vanishing and exploding gradient problems of traditional recurrent neural networks. Backpropagation-through-time is not needed here as learning is shifted away from the bulk of neurons, known as a “reservoir”, to an external readout layer of neurons. With randomly initialized weights in the reservoir, its chaotic dynamics can be exploited to separate data in high dimensional space. Then, through a trained readout layer, data is reprojected down to low dimensional space. Because the reservoir is left with random weights, a step further can be taken to use physical substrates for computation. But how can we know if such a physical, perhaps found or manufactured, device is viable as an RC? While much of the literature operates from known parameters and a symbolic model, little exists in the way of characterizing black-box devices with inaccessible internal states. We therefore collect techniques from RC literature and nonlinear system identification to form a toolkit for identifying and characterizing physical reservoir computers (PRC) with only input-output measurements alone. By connecting observations back to theory, defined by Jaeger and Maass, we open a path to evaluate found and manufactured devices as PRCs. We present not only a way to confirm a device’s status as a PRC, but also to build an operator’s intuition of the PRC’s inner workings. With this toolkit, we hope to lower the barrier of entry into PRC research for those who may lack access to sophisticated equipment by opening the field to a wider array of candidate PRC systems.
+
+---
+
 ## What this toolkit does
 
 This toolkit provides a structured set of tests for determining whether a physical device —
