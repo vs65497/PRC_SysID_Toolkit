@@ -1,14 +1,10 @@
 # PRC Toolkit
 ### A Toolkit for System Identification of Black-box Physical Reservoir Computers
 
-**Paper:** *A Toolkit for System Identification of Black-box Physical Reservoir Computers*
-
-**Available online** DOI: 10.5281/zenodo.22165842
-
-**Author:** Von Simmons
-
-**Date:** August 2026
-
+**Paper:** *A Toolkit for System Identification of Black-box Physical Reservoir Computers*<br>
+**Available online** DOI: 10.5281/zenodo.22165842<br>
+**Author:** Von Simmons<br>
+**Date:** August 2026<br>
 **Contact:** [see paper]
 
 ---
